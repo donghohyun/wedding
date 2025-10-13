@@ -53,6 +53,7 @@ body {
     object-fit: cover;
 }
 
+/* 배경 대비 확보용 오버레이 */
 .cover-overlay {
     position: absolute;
     top: 0;
@@ -91,6 +92,7 @@ body {
     text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }
 
+/* D-Day 강조 배지 */
 .d-day-counter {
     background: rgba(255,255,255,0.2);
     padding: 15px 25px;
@@ -222,6 +224,7 @@ section h2::after {
     flex-wrap: wrap;
 }
 
+/* 주요 액션 버튼 스타일 */
 .nav-btn {
     display: flex;
     align-items: center;
@@ -433,6 +436,7 @@ section h2::after {
     gap: 15px;
 }
 
+/* 갤러리 카드(터치 호버 효과) */
 .gallery-item {
     aspect-ratio: 1;
     border-radius: 15px;
@@ -454,6 +458,7 @@ section h2::after {
 }
 
 /* 로딩 스피너 */
+/* 전역 로딩 오버레이 */
 .loading-spinner {
     position: fixed;
     top: 0;
