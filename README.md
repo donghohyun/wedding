@@ -1,6 +1,5 @@
 # 웨딩 청첩장 프로젝트
-
-HTML/CSS/JavaScript 기반의 모바일 친화적인 웹 청첩장입니다.
+HTML/CSS/JavaScript 기반의 모바일 친화적인 웹 청첩장입니다!!.
 
 ## 📁 프로젝트 구조
 
